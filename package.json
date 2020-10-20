@@ -1,0 +1,16 @@
+{
+  "name": "switch-in-stock",
+  "version": "1.0.0",
+  "description": "Tell me if switch is in stock",
+  "main": "index.js",
+  "type": "module",
+  "repository": "git@github.com:nikorablin/switch-in-stock.git",
+  "author": "Nik Korablin <nikorablin@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "lodash.flatten": "^4.4.0",
+    "lodash.get": "^4.4.2",
+    "node-notifier": "^6.0.0"
+  }
+}
